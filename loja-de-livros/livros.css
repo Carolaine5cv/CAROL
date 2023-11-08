@@ -8,3 +8,17 @@
     margin-left: 562px;
     color: purple;
 }
+
+#Paiz
+{
+    display: grid;
+    border: 2px solid black;
+    height: 1000px;
+    width: 100%;
+}
+#La
+{
+    display: grid;
+    grid-area: 6/3/1/7;
+     
+}
