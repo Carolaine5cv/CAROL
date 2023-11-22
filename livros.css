@@ -1,0 +1,98 @@
+#pai
+{
+    border: 2px solid black;
+    height: 80px;
+}
+
+#a{
+    margin-left: 562px;
+    color: purple;
+}
+
+#Paiz
+{
+    
+    border: 2px solid black;
+    height: 1000px;
+    width: 100%;
+    display: grid;
+    grid-template-areas:    "p b c d e "
+                            "f g h i j "
+                            "k l m n o " ;
+                          
+}
+#p
+{
+    grid-area: p;
+   
+     
+}
+#b
+{
+    grid-area: b;
+
+}
+#c
+{
+    grid-area: c;
+}
+#d
+{
+    grid-area: d;
+}
+#e
+{
+    grid-area: e;
+}
+#f
+{
+    grid-area: f;
+}
+#g
+{
+    grid-area: g;
+}
+#h
+{
+    grid-area: h;
+}
+#i
+{
+    grid-area: i;
+}
+#j
+{
+    grid-area: j;
+}
+#k
+{
+    grid-area: k;
+}
+#l
+{
+    grid-area: l;
+}
+#m
+{
+    grid-area: m;
+}
+#n
+{
+    grid-area: n;
+}
+#o
+{
+    grid-area: o;
+}
+#q
+{
+    grid-area: q;
+}
+#r
+{
+    grid-area: r;
+}
+#s
+{
+    grid-area: s;
+}
