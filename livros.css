@@ -20,7 +20,7 @@ body
     
     border: 2px solid black;
     background-color:beige;
-    height: 1000px;
+    height: 1150px;
     width: 100%;
     display: grid;
     grid-template-areas:    "p b c d e "
