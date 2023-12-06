@@ -1,14 +1,21 @@
+body
+{
+    background-color: rgb(245, 255, 230);
+}
+
 .Ano
 {
+display: grid;
+grid-template-areas: "Ano Autor Resumo" ;
 
 }
 .Aa
 {
-
+ color: #fca620;
 }
 .Bb
 {
-
+    grid-template-areas: "Aa"
 }
 .Resumo
 {
@@ -16,5 +23,5 @@
 }
 .Autor
 {
-    
+
 }
