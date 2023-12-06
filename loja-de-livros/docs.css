@@ -6,7 +6,7 @@ body
 .Ano
 {
 display: grid;
-grid-template-areas: "Ano Autor Resumo" ;
+
 
 }
 .Aa
